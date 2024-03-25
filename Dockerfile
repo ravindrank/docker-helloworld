@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Ravindran Keshavan "ravindran.k@gmail.com"
+MAINTAINER Ravindran Keshavan "ravindran.k@gxxxx.com"
 
 RUN apt-get update
 RUN apt-get install apt-utils wget -y
